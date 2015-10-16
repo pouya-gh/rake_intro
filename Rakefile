@@ -1,3 +1,4 @@
+task :all => [:exe, :dylib, :statlib]
 task :exe => 'main'
 task :dylib => 'libpolitelang.so'
 task :statlib => 'libpolitelang.a'
