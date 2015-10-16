@@ -1,4 +1,7 @@
 *~
 *.swp
 *.out
-
+*.o
+*.so
+*.a
+main
